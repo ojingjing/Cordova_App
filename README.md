@@ -5,6 +5,7 @@
 - Css
 - Api
 - JavaScript
+- androidstudio
 ----
 
 Cordova(모바일 애플리케이션을 개발하기 위한 오픈 소스 프레임워크) 를 이용하여 EcoleSite를 App으로 개발 하였다.    
